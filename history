@@ -1,0 +1,174 @@
+    1  uname -a
+    2  sudo dnf uodate
+    3  sudo dnf update
+    4  init 3
+    5  ifconfig
+    6  clear
+    7  ifconfig
+    8  ping 192.168.1.2
+    9  samba
+   10  dnf install samba
+   11  sudo dnf install samba
+   12  rpm -q samba
+   13  dnf install samba
+   14  sudo su
+   15  ifconfig
+   16  sudo dnf install rsync
+   17  clear
+   18  clea
+   19  cd /
+   20  pwd
+   21  sudo mkdir realname
+   22  ls -l
+   23  chown cipher:cipher realname/
+   24  sudo chown cipher:cipher realname/
+   25  ls -l
+   26  sudo smbpasswd -a cipher
+   27  sudo vim /etc/samba/smb.conf
+   28  sudo /etc/init.d/samba restart
+   29  /etc/init.d/samba restart
+   30  service samba restart
+   31  ckear
+   32  clear
+   33  ifconfig
+   34  cd /
+   35  ls
+   36  ls -l
+   37  chmod 777 realname/
+   38  ls l 
+   39  ls -l 
+   40  clear
+   41  sudo vim /etc/samba/smb.conf
+   42  service samba restart
+   43  /bin/systemctl 
+   44  /bin/systemctl samba
+   45  /bin/systemctl samba status
+   46  clear
+   47  scp
+   48  dnf scp install
+   49  dnf install scp 
+   50  sudo dnf install scp 
+   51  scp install
+   52  ifconfig
+   53  sudo service ssh status
+   54  sudo dnf install ssh
+   55  sudo dnf install update
+   56  sudo dnf update
+   57  clewar
+   58  clear
+   59  dnf install ssh
+   60  sudodnf install ssh
+   61  sudo dnf install ssh
+   62  clear
+   63  dnf install nfs-utils
+   64  sudo dnf install nfs-utils
+   65  dnf -y install nfs-utils
+   66  sudo su
+   67  ls
+   68  cd Videos/
+   69  pwd
+   70  systemctl sshd restart
+   71  systemctl restart sshd
+   72  iptables -L -n
+   73  sudo iptables -L -n
+   74  iptables -L -n
+   75  sudo iptables -L -n
+   76  clear
+   77  vi /etc/ssh/sshd_config 
+   78  cd /etc/ssh/
+   79  ls
+   80  ls -l
+   81  sudo chmod 777 sshd_config 
+   82  vi /etc/ssh/sshd_config 
+   83  service sshd restart
+   84  service sshd start
+   85  dnf update
+   86  sudo dnf update
+   87  cd Downloads/
+   88  grep VM
+   89  whereis Vm
+   90  whereis Vmware
+   91  ls
+   92  whereis VM
+   93  clear
+   94  grep VM
+   95  ./VMware-Workstation-Full-12.5.2-4638234.x86_64.bundle 
+   96  sudo ./VMware-Workstation-Full-12.5.2-4638234.x86_64.bundle 
+   97  clear
+   98  sudo dnf install kernel-headers kernel-devel gcc glibc-headers
+   99  ls -l
+  100  ./VMware-Workstation-Full-12.5.2-4638234.x86_64.bundle 
+  101  sudo ./VMware-Workstation-Full-12.5.2-4638234.x86_64.bundle 
+  102  cd Dow
+  103  cd Downloads/
+  104  clear
+  105  l
+  106  ls
+  107  ./VMware-Workstation-Full-14.1.1-7528167.x86_64.bundle 
+  108  sudo ./VMware-Workstation-Full-14.1.1-7528167.x86_64.bundle 
+  109  sudo dnf upadte
+  110  sudo dnf update
+  111  clear
+  112  dnf update
+  113  sudo dnf update
+  114  ping google.com
+  115  clean
+  116  pwd
+  117  cd
+  118  twd
+  119  cd Downloads
+  120  top
+  121  kill 6064
+  122  clear
+  123  top
+  124  kill 6064
+  125  top
+  126  kill 1592
+  127  claer
+  128  clear
+  129  top
+  130  sudo dnf update
+  131  clear
+  132  sudo dnf install vagrant -y
+  133  clar
+  134  clear
+  135  vagrant init centos/7
+  136  vagrant plugin install vagrant-rekey-ssh
+  137  vagrant plugin install vagrant-mutate
+  138  vagrant plugin install vagrant-libvirt
+  139  clear
+  140  cat vagrantfil
+  141  cat Vagrantfile 
+  142  dnf install youtube
+  143  sudo dnf install youtube
+  144  sudo dnf install youtubedl
+  145  sudo dnf install youtube-dl
+  146  clear
+  147  youtube-dl https://www.youtube.com/watch?v=YZhUwHFsCO0
+  148  youtube-dl https://www.youtube.com/watch?v=YZhUwHFsCO0 -h
+  149  youtube-dl https://www.youtube.com/watch?v=YZhUwHFsCO0 -F
+  150  youtube-dl https://www.youtube.com/watch?v=YZhUwHFsCO0 -f 136
+  151  pwd
+  152  restart
+  153  history
+  154  ping google.com
+  155  clear
+  156  ping google.com
+  157  exit
+  158  sudo su
+  159  sudo su
+  160  sudo s
+  161  sudo su
+  162  free h 
+  163  free -h 
+  164  irsh 
+  165  virsh 
+  166  sudo su
+  167  cd ~
+  168  pwd
+  169  ll
+  170  cd cipherox/
+  171  ll
+  172  histoy 
+  173  history 
+  174  history  > history 
